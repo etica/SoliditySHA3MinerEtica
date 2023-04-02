@@ -21,9 +21,9 @@ allowAMD=false ^
 allowCUDA=false ^
 networkUpdateInterval=10000 ^
 abiFile=0xBTC.abi ^
-contract=0xB6eD7644C69416d67B522e20bC294A9a9B405B31 ^
+contract=0x34c61EA91bAcdA647269d4e310A86b875c09946f ^
 overrideMaxTarget=27606985387162255149739023449108101809804435888681546220650096895197184 ^
-pool=http://mike.rs:8080 ^
+pool=http://eticapool.com:8081 ^
 address=0x9172ff7884CEFED19327aDaCe9C470eF1796105c
 
 goto startMiner

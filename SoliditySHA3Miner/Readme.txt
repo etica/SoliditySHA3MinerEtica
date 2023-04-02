@@ -63,7 +63,7 @@ Options:
   gasApiMultiplier        (Solo only) Multiplier to dynamic gas price value from 'gasApiURL' => 'gasApiPath' (note: use 0.1 for EthGasStation API)
   gasApiOffset            (Solo only) Offset to dynamic gas price value from 'gasApiURL' => 'gasApiPath' (after 'gasApiMultiplier', decimals allowed)
   gasApiMax               (Solo only) Maximum gas price to mine in GWei from API (default: 7, decimals allowed)
-  pool                    (Pool only) URL of pool mining server (default: http://mike.rs:8080)
+  pool                    (Pool only) URL of pool mining server (default: http://eticapool.com:8081)
   secondaryPool           (Optional) URL of failover pool mining server
   logFile                 Enables logging of console output to '{appPath}\\Log\\{yyyy-MM-dd}.log' (default: false)
   devFee                  Set developer fee in percentage (default: 2.0%, minimum: 1.5%)

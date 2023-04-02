@@ -16,7 +16,7 @@
 3d) Enter the following in "Wallet and worker template"
   %WAL%
 
-3e) Enter the pool of your choice in "Pool URL" (you may try http://mike.rs:8080)
+3e) Enter the pool of your choice in "Pool URL" (you may try http://eticapool.com:8081)
 
 3f) Optionally, you may enter additional terminal arguments in "Extra config arguments"
   * Refer to Readme.txt for more information

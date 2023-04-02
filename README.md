@@ -124,7 +124,7 @@ Options:
 
     gasApiMax               (Solo only) Maximum gas price to mine in GWei from API (default: 7, decimals allowed)
 
-    pool                    (Pool only) URL of pool mining server (default: http://mike.rs:8080)
+    pool                    (Pool only) URL of pool mining server (default: http://eticapool.com:8081)
 
     secondaryPool           (Optional) URL of failover pool mining server
 

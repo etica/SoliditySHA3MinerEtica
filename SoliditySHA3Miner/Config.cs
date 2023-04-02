@@ -835,7 +835,7 @@ namespace SoliditySHA3Miner
         {
             public const string InfuraAPI_mainnet = "https://mainnet.infura.io/ANueYSYQTstCr2mFJjPE";
             public const string InfuraAPI_ropsten = "https://ropsten.infura.io/ANueYSYQTstCr2mFJjPE";
-            public const string Contract0xBTC_mainnet = "0xB6eD7644C69416d67B522e20bC294A9a9B405B31";
+            public const string Contract0xBTC_mainnet = "0x34c61EA91bAcdA647269d4e310A86b875c09946f";
             public const string Contract0xBTC_ropsten = "0x9D2Cc383E677292ed87f63586086CfF62a009010";
             public const string AbiFile0xBTC = "0xBTC.abi";
 
@@ -844,8 +844,8 @@ namespace SoliditySHA3Miner
             public const float GasApiMultiplier = 0.1f;
             public const float GasApiOffset = 0.5f;
 
-            public const string PoolPrimary = "http://mike.rs:8080";
-            public const string PoolSecondary = "http://mike.rs:8080";
+            public const string PoolPrimary = "http://eticapool.com:8081";
+            public const string PoolSecondary = "http://eticapool.com:8081";
             public const string JsonAPIPath = "http://127.0.0.1:4078";
             public const string CcminerAPIPath = "127.0.0.1:4068";
             public const string MasterIpAddress = "http://{0}:4080";
